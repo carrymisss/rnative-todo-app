@@ -30,15 +30,15 @@ With this application you can write your tasks for to do.
 - [http-status-codes](https://github.com/prettymuchbryce/http-status-codes)
 
 ## Screens
-<div style="display:flex">
-<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="50%" />
-<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/signup.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="50%" />
-</div>
-<div style="display:flex">
-<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/main.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="50%" />
-<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/create.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="50%" />
-</div>
-<div style="display:flex">
-<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/filters.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="50%" />
-<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/delete.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="50%" />
-</div>
+<p align="center">
+<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="49%" />
+<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/signup.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="49%" />
+</p>
+<p align="center">
+<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/main.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="49%" />
+<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/create.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="49%" />
+</p>
+<p align="center">
+<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/filters.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="49%" />
+<img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/delete.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="49%" />
+</p>
