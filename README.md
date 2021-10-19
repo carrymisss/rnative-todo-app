@@ -29,7 +29,7 @@ With this application you can write your tasks for to do.
 - [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
 - [http-status-codes](https://github.com/prettymuchbryce/http-status-codes)
 
-## Screens
+## Screenshots
 <p align="center">
 <img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="49%" />
 <img src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/signup.png?raw=true" data-canonical-src="https://github.com/carrymisss/rnative-todo-app/blob/main/gh_assets/auth.png?raw=true" width="49%" />
